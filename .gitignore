@@ -1,3 +1,5 @@
 node_modules
 .env
 .DS_Store
+
+MONGO_URI=mongodb://localhost:27017/breads
